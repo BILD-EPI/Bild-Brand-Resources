@@ -9,17 +9,17 @@ Here you’ll find up-to-date logo packages in various formats for digital and p
 
 ### 🏛️ Main Brands
 
-| Brand                | Download                                                                                                 |
-| -------------------- | -------------------------------------------------------------------------------------------------------- |
-| **BILD**             | [Download v1.0](#)                                                                                       |
-| **BILDplus**         | [Download v1.0](#)                                                                                       |
-| **BILDplus Premium** | [Download v1.0](#)                                                                                       |
-| **BILDplay**         | [Download v1.0](#)                                                                                       |
-| **AutoBILD**         | [Download v1.0](https://github.com/BILD-EPI/Bild-Brand-Resources/blob/latest_branch/assets/AutoBILD.zip) |
-| **BILDclub**         | [Download v1.0](#)                                                                                       |
-| **ComputerBILD**     | [Download v1.0](#)                                                                                       |
-| **SportBILD**        | [Download v1.0](#)                                                                                       |
-| **B.Z.**             | [Download v1.0](#)                                                                                       |
+| Brand                | Download                                                                                                           |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **BILD**             | [Download v1.0](#)                                                                                                 |
+| **BILDplus**         | [Download v1.0](#)                                                                                                 |
+| **BILDplus Premium** | [Download v1.0](#)                                                                                                 |
+| **BILDplay**         | [Download v1.0](#)                                                                                                 |
+| **AutoBILD**         | [Download v1.0](https://github.com/BILD-EPI/Bild-Brand-Resources/raw/refs/heads/latest_branch/assets/AutoBILD.zip) |
+| **BILDclub**         | [Download v1.0](#)                                                                                                 |
+| **ComputerBILD**     | [Download v1.0](#)                                                                                                 |
+| **SportBILD**        | [Download v1.0](#)                                                                                                 |
+| **B.Z.**             | [Download v1.0](#)                                                                                                 |
 
 ### 📚 BILD Books
 
