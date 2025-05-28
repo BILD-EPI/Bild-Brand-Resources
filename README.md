@@ -19,7 +19,7 @@ Here you’ll find up-to-date logo packages in various formats for digital and p
 | **BILDclub**         | [Download v1.0](https://github.com/BILD-EPI/Bild-Brand-Resources/raw/refs/heads/latest_branch/assets/BILDclub.zip)        |
 | **ComputerBILD**     | [Download v1.0](https://github.com/BILD-EPI/Bild-Brand-Resources/raw/refs/heads/latest_branch/assets/ComputerBILD.zip)    |
 | **SportBILD**        | [Download v1.0](https://github.com/BILD-EPI/Bild-Brand-Resources/raw/refs/heads/latest_branch/assets/SportBILD.zip)       |
-| **B.Z.**             | [Download v1.0](coming soon)                                                                                              |
+| **B.Z.**             | [Download v1.0]([coming soon](https://github.com/UXWizard25/Bild-Brand-Resources/raw/refs/heads/latest_branch/assets/BZ.zip)                                                                                             |
 
 ### 📚 BILD Books
 
